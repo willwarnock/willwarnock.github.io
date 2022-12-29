@@ -6,3 +6,5 @@ run from PowerShell only
 hugo server -D
 
 hugo new <PATH>
+# generate static - public files
+hugo -t cactus
