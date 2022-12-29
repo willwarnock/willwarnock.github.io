@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name":"Portfolio",
+      "url":"https://willwarnock.com/portfolio/",
+      "desc":"Read my portfolio of work"
+    },
+    {
+      "name":"CV",
+      "url":"https://willwarnock.com/cv",
+      "desc":"Check out my CV"
+    }
+  ]
+}
