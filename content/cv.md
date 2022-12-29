@@ -1,7 +1,7 @@
 ---
 title: "CV"
 date: 2022-12-28T22:44:26+13:00
-draft: false
+draft: true
 ---
 
 Last Updated 13/10/2022
