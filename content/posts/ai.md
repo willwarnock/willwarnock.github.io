@@ -3,6 +3,7 @@ title: "Using Next Gen AI"
 date: 2022-12-12T14:00:00+13:00
 draft: false
 ---
+["Home"](https://willwarnock.com)
 
 # For OpenAI's general purpose conversation tool, click below. Create an account and you're away
 ### https://chat.openai.com
