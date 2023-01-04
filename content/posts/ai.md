@@ -3,8 +3,6 @@ title: "Using Next Gen AI"
 date: 2022-12-12T14:00:00+13:00
 draft: false
 ---
-["Home"](https://willwarnock.com)
-
 # For OpenAI's general purpose conversation tool, click below. Create an account and you're away
 ### https://chat.openai.com
 
@@ -47,6 +45,8 @@ My general rule of thumb is to use ChatGPT until you get a response something al
 
 **What does AI think about it?**  
 ChatGPT and GPT3 are powerful tools that can help you increase your productivity and reduce the amount of time you spend on tedious tasks. With ChatGPT and GPT3, you can quickly generate summaries of conversations and text documents without having to deal with the administrative aspects of writing. Additionally, you can use the natural language processing capabilities of GPT3 to generate more accurate summaries that accurately reflect the tone and meaning of conversations. With the help of ChatGPT and GPT3, you can save time and get more done in less time.[^1][^extra links]
+
+[Home](https://willwarnock.com)
 
 [^1]: More than half of this guide was written by AI.
 [^extra links]: https://github.com/f/awesome-chatgpt-prompts
