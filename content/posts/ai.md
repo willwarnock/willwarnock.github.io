@@ -44,11 +44,10 @@ Both tools can be used in the browser, making them convenient and accessible. Ho
 My general rule of thumb is to use ChatGPT until you get a response something along the lines of "I am a large language model trained by OpenAI and do not have access to external information or the ability to browse the internet". Try re-word your question, or switch over to GPT-3 Playground.
 
 **What does AI think about it?**  
-ChatGPT and GPT3 are powerful tools that can help you increase your productivity and reduce the amount of time you spend on tedious tasks. With ChatGPT and GPT3, you can quickly generate summaries of conversations and text documents without having to deal with the administrative aspects of writing. Additionally, you can use the natural language processing capabilities of GPT3 to generate more accurate summaries that accurately reflect the tone and meaning of conversations. With the help of ChatGPT and GPT3, you can save time and get more done in less time.[^1][^extra links]
+ChatGPT and GPT3 are powerful tools that can help you increase your productivity and reduce the amount of time you spend on tedious tasks. With ChatGPT and GPT3, you can quickly generate summaries of conversations and text documents without having to deal with the administrative aspects of writing. Additionally, you can use the natural language processing capabilities of GPT3 to generate more accurate summaries that accurately reflect the tone and meaning of conversations. With the help of ChatGPT and GPT3, you can save time and get more done in less time.[^extra links]
 
 [Home](https://willwarnock.com)
 
-[^1]: More than half of this guide was written by AI.
 [^extra links]: https://github.com/f/awesome-chatgpt-prompts
 
 
